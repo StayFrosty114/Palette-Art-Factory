@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_Desert.unity
+    guid: 81f953d8e4331414bb2eef85430cf2fa
   m_configObjects: {}
